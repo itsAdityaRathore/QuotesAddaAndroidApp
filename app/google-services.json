@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "629325787781",
+    "firebase_url": "https://quotesadda-46685.firebaseio.com",
+    "project_id": "quotesadda-46685",
+    "storage_bucket": "quotesadda-46685.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629325787781:android:eaa21ba3855141659f2fec",
+        "android_client_info": {
+          "package_name": "com.techyhacky.quotesadda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629325787781-r8cge1t5c0dbm6cfr0k75nu4uhjqcfhe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBhm_zafIY_49D7uCYKMqB3U-YkPfrG0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629325787781-r8cge1t5c0dbm6cfr0k75nu4uhjqcfhe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
